@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="recursos/banner.svg" alt="Arca ODS" width="100%">
+  <img src="recursos/banner.png" alt="Arca ODS" width="100%">
 </p>
 
 <p align="center">
@@ -128,6 +128,10 @@ testes/            python -m unittest discover testes  (precisa do XML do DeCS d
 ## Como citar
 
 Use o botão **Cite this repository** do GitHub ou o arquivo [`CITATION.cff`](CITATION.cff).
+
+## Marca
+
+A marca Arca pertence à Fiocruz e aparece aqui só para identificar o repositório a que este projeto serve.
 
 ---
 
