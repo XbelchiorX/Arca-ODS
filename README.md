@@ -30,7 +30,7 @@ documento e o trecho copiado que justifica cada atribuição, para que uma pesso
 ## Como funciona
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[Registro do Arca] --> B[Título, resumo e palavras-chave]
     B -. sem resumo ou resumo curto .-> C[Resumo gerado do PDF]
     C --> D
